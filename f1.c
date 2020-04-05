@@ -4,3 +4,4 @@ int main()
 	printf("hello Azerbaidjan\n");
 	return 0;
 }
+//DD
